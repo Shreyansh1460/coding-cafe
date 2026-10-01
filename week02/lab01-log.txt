@@ -1,0 +1,99 @@
+   97  pwd
+   98  ls
+   99  ls -a
+  100  ls -l
+  101  ls -1
+  102  ls -l
+  103  coding-cafe/\n├── week01/\n├── week02/\n│ └── notes.md\n└── README.md
+  104  coding-cafe/
+  105  clear
+  106  pwd
+  107  ls -a
+  108  ls -l
+  109  mkdir
+  110  coding-cafe
+  111  mkdir
+  112  cd
+  113  mkdir
+  114  cd ~/desktop
+  115  mkdir
+  116  ls
+  117  mkdir
+  118  coding-cafe
+  119  mkdir coding-cafe
+  120  ls
+  121  cd
+  122  cd ~/desktop
+  123  cd ~/coding-cafe
+  124  cd coding-cafe
+  125  mkdir week01
+  126  ls
+  127  mkdir week02
+  128  ls
+  129  cd week02
+  130  mkdir notes.md
+  131  ls
+  132  cd coding-cafe
+  133  cd ..
+  134  mkdir README.md
+  135  ls
+  136  ls coding-cafe/week02
+  137  cd ..
+  138  cd ..
+  139  ls coding-cafe/week02
+  140  cd desktop
+  141  ls coding-cafe/week02
+  142  cd coding-cafe/week02
+  143  touch notes.md
+  144  ls
+  145  cd ..
+  146  cd ..
+  147  cd ..
+  148  ls -l
+  149  cd desktop
+  150  cd coding-cafe
+  151  cp README-BACKUP.md
+  152  mv README-BACKUP.md week01/
+  153  mv README-backup.md week01/
+  154  touch README.md
+  155  mv README-backup.md week01/
+  156  cp README-BACKUP.md
+  157  mv README-backup.md week01/
+  158  cp README.md  README-BACKUP.md
+  159  mv README-backup.md week01/
+  160  cd week01
+  161  mv README-backup.md old-readme.md
+  162  ls
+  163  rm old-readme.md
+  164  ls
+  165  echo $PATH
+  166  which python3
+  167  which pip
+  168  which ls
+  169  pyton3
+  170  cd ..
+  171  cd ..
+  172  which python3
+  173  cd week01
+  174  cd ~/coding-cafe
+  175  cd coding-cafe
+  176  python3 -m venv .venv
+  177  ls
+  178  ls -a
+  179  source .venv/bin/activate
+  180  which python3
+  181  pip list
+  182  pip install requests
+  183  pip list
+  184  deactivate
+  185  which python3
+  186  man ls
+  187  man man
+  188  ls -h
+  189  cd cod
+  190  history
+  191  cd desktop
+  192  cd coding-cafe
+  193  history > week02/lab01-log.txt
+  194  history1 > week02/lab01-log.txt
+  195  history 1 > week02/lab01-log.txt
